@@ -1,0 +1,75 @@
+.balao {
+    background-color: aquamarine;
+    width: 600px;
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+.nav {
+    margin: 2px auto;
+}
+.hab{
+    position: absolute;
+    margin-left: 50%;
+    border: 1px solid gray;
+    top: 90px;
+}
+.personagens {
+    display: inline;
+    text-align: left;
+    margin: 5px;
+}
+.criar{
+    position: relative;
+    margin: 10px;
+    left: 55%;
+}
+h4 {
+    text-align: center;              
+}
+.input-group-text {
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.form-control {
+    margin-right: 400px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#tentacles {
+    margin: 2px;
+}
+
+footer {
+    text-align: center;
+    margin: 10px ;
+    border: 1px solid gray;
+}
+#inicio{
+    text-align: center;
+    
+}
+.col-6 {
+    border: 2px solid black;
+    position: relative;
+    left: 20%;
+    border: 10px;
+}
+#video {
+    width: 600px;
+	height: 400px;
+	margin-top: 50px;
+	margin-left: 25%;
+    margin-bottom: 50px;
+}
+.col-4 {
+    width: 450px;
+	height: 100px;
+	float: right;
+	padding: 35px 0px 50px 0px;
+	font: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
